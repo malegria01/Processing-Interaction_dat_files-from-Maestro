@@ -31,7 +31,8 @@ The output will be an excel file (called Interaction.xlsx) which you can plot in
 You can apply more lines of code to this notebook to plot as you like!
 
 This is the Intercation.xlsx
-![Imagen](.png)
+
+![Imagen](https://github.com/malegria01/ProcesProcessing-Interaction_dat_files-from-Maestro/Interaction_img.png )
 
 ## 3. Example of plots
 ### With Gradpad
