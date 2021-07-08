@@ -40,18 +40,18 @@ Additionally, an image of the graphic will be saved in png format.
 ## 3. Example of plots
 
 
-### With Matplotlib 
+### Example using Matplotlib 
 <p align="center">
   <img src="img/Interaction.png" />
 </p>
 
-#### Other style
+#### Other style using Matplotlib
 
 <p align="center">
   <img src="img/Interaction2.png" />
 </p>
 
-### With GraphPad
+### Example using GraphPad
 
 <p align="center">
   <img src="img/GraphPad.png" />
