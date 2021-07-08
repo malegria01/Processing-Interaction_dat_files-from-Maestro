@@ -13,7 +13,7 @@ Specifically, consider the following files:
 * PL-Contacts_WaterBridge.dat 
 
 ## 1. Preparation
-* 1 Create a folder with the necessary files. For example:
+* Create a folder with the necessary files. For example:
 
 ``` mkdir InteractionAnalysis```
 
