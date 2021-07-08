@@ -32,7 +32,7 @@ You can apply more lines of code to this notebook to plot as you like!
 
 ###This is the Interaction.xlsx file
 
-![Imagen](https://github.com/malegria01/ProcesProcessing-Interaction_dat_files-from-Maestro/Interaction_img.png)
+![Imagen](https://github.com/malegria01/Processing-Interaction_dat_files-from-Maestro/blob/main/Interaction_img.png)
 
 
 ## 3. Example of plots
