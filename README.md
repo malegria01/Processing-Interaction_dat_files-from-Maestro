@@ -45,14 +45,17 @@ Additionally, an image of the graphic will be saved in png format.
   <img src="img/Interaction.png" />
 </p>
 
+#### Other style
 
-
-![Imagen](img/Interaction2.png)
-
+<p align="center">
+  <img src="img/Interaction2.png" />
+</p>
 
 ### With GraphPad
 
-![Imagen](img/GraphPad.png)
+<p align="center">
+  <img src="img/GraphPad.png" />
+</p>
 
 
 Note:
