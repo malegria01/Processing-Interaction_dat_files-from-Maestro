@@ -30,7 +30,7 @@ Open the jupiter notebook file and execute the steps.
 The output will be an excel file (called Interaction.xlsx) which you can plot in any program (e.g. Excel, Graphpad, plotly, R, etc). 
 You can apply more lines of code to this notebook to plot as you like!
 
-###This is the Interaction.xlsx file
+### This is the Interaction.xlsx file
 
 ![Imagen](https://github.com/malegria01/Processing-Interaction_dat_files-from-Maestro/blob/main/Interaction_img.png)
 
