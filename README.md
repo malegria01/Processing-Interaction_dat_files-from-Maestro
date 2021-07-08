@@ -30,21 +30,24 @@ Open the jupiter notebook file and execute the steps.
 The output will be an excel file (called Interaction.xlsx) which you can plot in any program (e.g. Excel, Graphpad, plotly, R, etc). 
 You can apply more lines of code to this notebook to plot as you like!
 
+Additionally, an image of the graphic will be saved in png format.
+
 ### This is the Interaction.xlsx file
 
 ![Imagen](https://github.com/malegria01/Processing-Interaction_dat_files-from-Maestro/blob/main/Interaction_img.png)
 
 
 ## 3. Example of plots
+
+
+### With Matplotlib 
+
+![Imagen](.png)
+
+
 ### With Gradpad
 
 ![Imagen](.png)
-
-### With plt
-
-
-![Imagen](.png)
-
 
 Note:
 The interaction file *PL-Contacts_Metal* is not processed in this version.
