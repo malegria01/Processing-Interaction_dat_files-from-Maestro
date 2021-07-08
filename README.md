@@ -39,3 +39,7 @@ You can apply more lines of code to this notebook to plot as you like!
 
 
 ![Imagen](.png)
+
+
+Note:
+The interaction file *PL-Contacts_Metal* is not processed in this version.
