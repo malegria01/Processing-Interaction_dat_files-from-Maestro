@@ -41,8 +41,10 @@ Additionally, an image of the graphic will be saved in png format.
 
 
 ### With Matplotlib 
+<p align="center">
+  <img src="img/Interaction.png" />
+</p>
 
-![Imagen](img/Interaction.png)
 
 
 ![Imagen](img/Interaction2.png)
