@@ -21,7 +21,7 @@ Specifically, consider the following files:
 
 ## 2. Processing
 
-Download in this folder "InteractionAnalysis" (previous step) the [*jupyter notebook file*](). To run it you just need to open a console and type:
+Download in this folder "InteractionAnalysis" (previous step) the [*jupyter notebook file*](Processing_Interaction_datfiles_from_Maestro.ipynb). To run it you just need to open a console and type:
 
 ```jupyter-notebook ```
 
