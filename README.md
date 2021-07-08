@@ -27,7 +27,7 @@ Download in this folder "InteractionAnalysis" (previous step) the [*jupyter note
 
 Open the jupiter notebook file and execute the steps.
 
-The output will be an excel file (called Interaction.xlsx) which you can plot in any program (e.g. Excel, Graphpad, plotly, R, etc). 
+The output will be an excel file (called Interaction.xlsx) which you can plot with another program (e.g. Excel, GraphPad, plotly, R, etc). 
 You can apply more lines of code to this notebook to plot as you like!
 
 Additionally, an image of the graphic will be saved in png format.
