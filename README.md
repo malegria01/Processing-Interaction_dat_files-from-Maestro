@@ -34,7 +34,7 @@ Additionally, an image of the graphic will be saved in png format.
 
 ### This is the Interaction.xlsx file
 
-![Imagen](img/Interaction_img.png)
+![Imagen](img/excel_out.png)
 
 
 ## 3. Example of plots
