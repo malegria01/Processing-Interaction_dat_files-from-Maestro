@@ -42,7 +42,7 @@ Additionally, an image of the graphic will be saved in png format.
 
 ### With Matplotlib 
 
-![Imagen](.png)
+![Imagen](img/Interaction.png)
 
 
 ### With Gradpad
