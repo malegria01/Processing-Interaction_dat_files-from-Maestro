@@ -34,7 +34,7 @@ Additionally, an image of the graphic will be saved in png format.
 
 ### This is the Interaction.xlsx file
 
-![Imagen](https://github.com/malegria01/Processing-Interaction_dat_files-from-Maestro/blob/main/Interaction_img.png)
+![Imagen](img/Interaction_img.png)
 
 
 ## 3. Example of plots
@@ -45,9 +45,13 @@ Additionally, an image of the graphic will be saved in png format.
 ![Imagen](img/Interaction.png)
 
 
-### With Gradpad
+![Imagen](img/Interaction2.png)
 
-![Imagen](.png)
+
+### With GraphPad
+
+![Imagen](img/GraphPad.png)
+
 
 Note:
 The interaction file *PL-Contacts_Metal* is not processed in this version.
